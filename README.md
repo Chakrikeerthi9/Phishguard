@@ -154,17 +154,9 @@ User → React App → FastAPI → AI Agent Controller
 
 Average cost per scan: $0.001
 
-## 🤝 Contributing
-
-Contributions welcome! Please read CONTRIBUTING.md first.
-
-## 📄 License
-
-MIT License - see LICENSE file
-
 ## 👤 Author
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [LinkedIn](https://www.linkedin.com/in/chakri-keerthi16/)
 
 ## 🙏 Acknowledgments
 
